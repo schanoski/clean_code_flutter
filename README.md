@@ -11,15 +11,9 @@ Clean Code significa escrever código claro, legível e fácil de manter. Aplica
 
 ### Impacto na produtividade
 
-Quando o código é limpo, o tempo gasto para implementar novas funcionalidades, corrigir erros e dar manutenção diminui drasticamente. Veja abaixo um gráfico ilustrativo:
-
-![Gráfico de produtividade](https://raw.githubusercontent.com/rafaelrinaldi/clean-code-illustrations/master/pt-br/graphs/clean-vs-dirty-code.png)
+Quando o código é limpo, o tempo gasto para implementar novas funcionalidades, corrigir erros e dar manutenção diminui drasticamente.
 
 No início, código sujo parece mais rápido de implementar, mas com o tempo, o esforço para manter e evoluir cresce exponencialmente. Já o Clean Code mantém o ritmo de produtividade alto e constante.
-
-Outro gráfico mostra o custo de manutenção ao longo do tempo:
-
-![Gráfico de custo de manutenção](https://raw.githubusercontent.com/rafaelrinaldi/clean-code-illustrations/master/pt-br/graphs/maintenance-cost.png)
 
 **Resumo:**
 Investir em Clean Code é investir em produtividade, qualidade e longevidade do projeto.
