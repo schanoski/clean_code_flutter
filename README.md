@@ -213,7 +213,6 @@ class PagamentoBoleto implements Pagamento {
 ### L - Liskov Substitution Principle (Substituição de Liskov)
 Subtipos devem poder substituir seus tipos base sem alterar o funcionamento.
 ```dart
-// Ruim: subclasse altera comportamento esperado
 class Forma {
   double area() => 0;
 }
